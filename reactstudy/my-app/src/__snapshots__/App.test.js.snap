@@ -1,0 +1,10 @@
+exports[`test renders button success 1`] = `
+<div>
+  <div>
+    Button1
+  </div>
+  <div>
+    Button2
+  </div>
+</div>
+`;

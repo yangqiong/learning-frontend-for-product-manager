@@ -7,6 +7,6 @@ test('adds 1 + 2 to equal 3', () => {
 });
 
 test('fetch weather api success', async () => {
-  const data = await fetchWeather('Singapore');
-  expect(data.cod).toBe(200);
+  const data = fetchWeather('Singapore').then( (resp) => expect(data.cod).toBe(200) );
+  ;
 });

@@ -7,3 +7,5 @@ class Button1 extends React.Component {
     )
   }
 }
+
+export default Button1;

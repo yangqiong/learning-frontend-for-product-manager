@@ -6,3 +6,4 @@
 - [day004 - 学习 ES6 模块导出和导入](./day004.md)
 - [day005 - 学习通过 Props 进行组件传值](./day005.md)
 - [day006 - 学习装 VS Code 插件](./day006.md)
+- [day007 - 学习 Flex 布局](./day007.md)

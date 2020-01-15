@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import Box from "./components/Box.js"
-import './App.scss'
+import Box from "./components/Box.js";
+import "./App.scss";
 
 class App extends Component {
   render() {
@@ -50,6 +50,11 @@ class App extends Component {
             <Box></Box>
           </div>
 
+          <div className="row8">
+            <Box></Box>
+            <Box></Box>
+            <Box></Box>
+          </div>
         </div>
 
         <div className="cols">

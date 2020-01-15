@@ -1,8 +1,8 @@
 import React from 'react';
 import './Box.css'
 
-export default () => {
+export default props => {
   return (
-    <div className="box"></div>
+    <div className="box">{props.children}</div>
   )
 }

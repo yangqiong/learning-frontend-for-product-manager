@@ -8,3 +8,4 @@
 - [day006 - 学习装 VS Code 插件](./day006.md)
 - [day007 - 学习 Flex 布局](./day007.md)
 - [day008 - 学习 React State 和 事件处理](./day008.md)
+- [day009 - 学习 React Weather Project](./day009.md)
